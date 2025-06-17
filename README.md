@@ -1,4 +1,4 @@
-# -resumo-do-lab.
+# -resumo-do-lab– Azure e Computação em Nuvem.
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 Introdução à Experiência Microsoft 50 Anos - a História da Microsoft e seu impacto na tecnologia.
 Computação em Nuvem com Azure - Uma rápida introdução sobre o conteúdo do curso.
